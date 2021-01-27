@@ -1,0 +1,2 @@
+2021-01-27 19:42:48 INFO  Main:16 - კომუნალური გადახდილია Electricity{customerNumber='123', amount=123.2}
+2021-01-27 19:42:48 INFO  Main:17 - კომუნალური გადახდილია Water{customerNumber='123', amount=123.2}
